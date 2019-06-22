@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+
+header {
+  background-color:#FA8072;
+  padding-top:35px;
+  height:80px;
+  font-family: fantasy;
+  font-size: 35px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color:whitesmoke;
+  padding-bottom: 10px;
+}
+
+input{
+  border: 1px solid black;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.cityZip{
+  font-family: fantasy;
+  
+}
+h2{
+  color: #FA8072;
+}
+
